@@ -14,7 +14,7 @@ git restore testing.py
 clear
 git status
 
-git remote add origin https://github.com/LondheShubham153/github-for-devops-workshop.git
+git remote add origin https://token@github.com/username/github-for-devops-workshop.git
 git remote -v
 git status
 Added this 
