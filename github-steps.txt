@@ -17,4 +17,6 @@ git status
 git remote add origin https://token@github.com/username/github-for-devops-workshop.git
 git remote -v
 git status
+git fetch (fetch means To bring branches from remote to local you can use fetch)
+git pull (pull means to update remote branch changes to local you can use pull)
 Added this 
