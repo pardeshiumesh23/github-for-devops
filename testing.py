@@ -1,6 +1,10 @@
+"""
+This module contains a demo function to return a greeting.
+"""
+
 def hello():
     """
-    This is demo
+    This function returns a greeting.
     """
     return "Hello dosto"
 
