@@ -1,2 +1,12 @@
-print("Hello friends!!!!")
-print("Bappa Morya")
+def hello():
+    """
+    This is demo
+    """
+    return "Hello dosto"
+
+
+hello()
+
+
+
+
